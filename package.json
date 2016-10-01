@@ -1,0 +1,14 @@
+{
+	"name": "Stokrotka"
+	,"description": "Stokrotka"
+	,"version": "0.0.1"
+	,"main": "lib/main.js"
+	,"node-remote": "<local>"
+	,"dependencies": {
+		"express": "^3.20.1"
+		,"fabric": ">=1.5.0"
+		,"mkdirp": "^0.5.1"
+		,"sprintf": "^0.1.5"
+		,"winston": ">= 1.3.5"
+	}
+}
